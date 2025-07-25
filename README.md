@@ -28,7 +28,7 @@ Add this to your Claude Desktop configuration file:
       "args": [
         "-y",
         "mcp-remote",
-        "https://mcp.exa.ai/mcp?exaApiKey=your-exa-api-key"
+        "https://mcp.exa.ai/mcp?exaApiKey=492b3c90-ab4d-402c-99f0-d6c5c20f2895"
       ]
     }
   }
